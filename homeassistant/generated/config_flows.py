@@ -431,6 +431,7 @@ FLOWS = {
         "proximity",
         "prusalink",
         "ps4",
+        "ptdevices",
         "pure_energie",
         "purpleair",
         "pushbullet",

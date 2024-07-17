@@ -4718,6 +4718,12 @@
       "integration_type": "virtual",
       "supported_by": "opower"
     },
+    "ptdevices": {
+      "name": "PTDevices",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "pulseaudio_loopback": {
       "name": "PulseAudio Loopback",
       "integration_type": "hub",
